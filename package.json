@@ -1,0 +1,31 @@
+{
+  "name": "example-hyperapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "hyperapp-scripts",
+    "build": "hyperapp-scripts build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akhmetovdev/example-hyperapp.git"
+  },
+  "keywords": [],
+  "author": {
+    "name": "akhmetovdev",
+    "email": "akhmetovdev@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akhmetovdev/example-hyperapp/issues"
+  },
+  "homepage": "https://github.com/akhmetovdev/example-hyperapp#readme",
+  "dependencies": {
+    "hyperapp": "^1.2.8"
+  },
+  "devDependencies": {
+    "cra-hyperapp": "^0.1.0"
+  }
+}
